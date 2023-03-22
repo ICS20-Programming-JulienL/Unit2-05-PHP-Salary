@@ -1,5 +1,5 @@
 <?php
-	// get the base and height from the textfields
+	// get the hourly rate and the work hours from textfield
 	$hoursWorked = $_POST["hoursWorked"];
 	$hourlyRate = $_POST["hourlyRate"];
 
