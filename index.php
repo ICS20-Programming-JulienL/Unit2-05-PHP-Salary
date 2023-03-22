@@ -22,7 +22,7 @@
     <center>
     <?php echo "<h1> User Input with PHP : Salary Program</h1>" ?>
     <?php echo "<h4>By: Julien Lamoureux</h4>" ?>
-    <?php echo "<h4>Course: ICS20 Promgramming</h4>" ?>
+    <?php echo "<h4>Course: ICS20 Programming</h4>" ?>
     <br>
     <br>
     <!--User Input-->
