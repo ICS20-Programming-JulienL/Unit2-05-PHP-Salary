@@ -29,9 +29,9 @@
     <?php echo "<h3>Please enter the following:</h3>" ?>
     <form action="./results.php" method="post" target="result">
       <label for="hoursWorked">Hours Worked</label>
-      <input type="text" id="hoursWorked" step=".001" placeholder="Enter hours worked" name="hoursWorked"><br><br>
+      <input type="number" id="hoursWorked" step=".001" placeholder="Enter hours worked" name="hoursWorked"><br><br>
       <label for="hourlyRate">Hourly Rate</label>
-      <input type="text" id="hourlyRate" step=".01" placeholder="Enter your hourly rate" name="hourlyRate"><br><br>
+      <input type="number" id="hourlyRate" step=".01" placeholder="Enter your hourly rate" name="hourlyRate"><br><br>
       <input type="submit" value="Enter">
     </center>
 			<br><br>	
